@@ -1,4 +1,4 @@
-# Exercise 2 - Read Mapping and IGV
+# Exercise 1 - Read Mapping and IGV
 - Author: Falko Noé
 - Date: 19/01/2025
 
